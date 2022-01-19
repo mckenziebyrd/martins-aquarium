@@ -1,0 +1,80 @@
+header {
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+section {
+    display: flex;
+    flex-flow: row wrap;
+    /* padding: 10px;
+    margin: 10px;
+    background-origin: padding-box;
+    /* border-radius: 100px; */
+    /* border: cornflowerblue;
+    background-color: pink; 
+    text-align: center; */
+    border: 0.5rem outset teal;
+    outline: 0.5rem solid darkblue;
+    box-shadow: 0 0 0 2rem skyblue;
+    border-radius: 12px;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    outline-offset: 0.5rem;
+   
+
+}
+article {    
+    /* align-content:space-around; */
+    align-items: center;
+    justify-content: center;
+    /* height: 600px;
+    width: 900px; */
+    padding: 10px;
+    flex: 600px;
+    margin: 10px;
+    /* background-origin:border-box; */
+    background: blue;  
+    border-radius: 10px;  
+    text-align: center;
+    color: whitesmoke;
+}
+h1 {
+    font-size: xx-large;
+}
+aside {
+    display: block;
+}
+
+.cleaning {
+    background-color: blue;
+
+}
+* {
+    /* background: cadetblue; */
+}
+.quotes {
+    font-size: medium;
+    background: rgb(182, 12, 125);
+}
+.locations {
+    font-size: medium;
+    background: rebeccapurple;
+
+}
+p {
+    background-origin: padding-box;
+    border: darkolivegreen;
+}
+.info {
+    align-items: center;
+    justify-content: center;
+    /* height: 600px;
+    width: 900px; */
+    padding: 10px;
+    flex: 600px;
+    margin: 10px;
+    border-radius: 10px;  
+    text-align: center;
+    color: whitesmoke;
+}
