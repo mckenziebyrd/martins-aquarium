@@ -51,11 +51,11 @@ aside {
 
 }
 * {
-    /* background: cadetblue; */
+    color: rgb(129, 160, 160);    
 }
 .quotes {
     font-size: medium;
-    background: rgb(182, 12, 125);
+    background: rgb(139, 69, 116);
 }
 .locations {
     font-size: medium;
