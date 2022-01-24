@@ -41,6 +41,7 @@ article {
 }
 h1 {
     font-size: xx-large;
+    font-style: bold ;
 }
 aside {
     display: block;
@@ -55,6 +56,7 @@ aside {
 }
 .quotes {
     font-size: medium;
+    font-style: italic;
     background: rgb(139, 69, 116);
 }
 .locations {
